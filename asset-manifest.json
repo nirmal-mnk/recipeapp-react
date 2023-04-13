@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/recipeapp-react/static/css/main.cd207696.css",
+    "main.js": "/github.io/recipeapp-react/static/js/main.c685c192.js",
+    "static/media/banner.jpg": "/github.io/recipeapp-react/static/media/banner.1c03284117f79072909d.jpg",
+    "static/media/oats.jpg": "/github.io/recipeapp-react/static/media/oats.f4d70e2c655ceeeccdd3.jpg",
+    "static/media/loading-gif.webp": "/github.io/recipeapp-react/static/media/loading-gif.91498f14f4d0bb210b1c.webp",
+    "static/media/quinoa.jpg": "/github.io/recipeapp-react/static/media/quinoa.f92de79f979f47d85875.jpg",
+    "static/media/broccoli.jpg": "/github.io/recipeapp-react/static/media/broccoli.3b7a563d6ca34469cd7a.jpg",
+    "static/media/chia-seeds.jpeg": "/github.io/recipeapp-react/static/media/chia-seeds.3f063089f00bcc25d12a.jpeg",
+    "static/media/salmon.jpg": "/github.io/recipeapp-react/static/media/salmon.3e7c563b349b547739ee.jpg",
+    "static/media/olive-oil.jpg": "/github.io/recipeapp-react/static/media/olive-oil.316eae98ccf8679e703f.jpg",
+    "static/media/eggs.jpg": "/github.io/recipeapp-react/static/media/eggs.5f3e110a6441e48dd250.jpg",
+    "static/media/yogurt.jpg": "/github.io/recipeapp-react/static/media/yogurt.9db29e5848847eeaa02c.jpg",
+    "static/media/garlic.jpg": "/github.io/recipeapp-react/static/media/garlic.d187ad21e2c3148651f9.jpg",
+    "index.html": "/github.io/recipeapp-react/index.html",
+    "main.cd207696.css.map": "/github.io/recipeapp-react/static/css/main.cd207696.css.map",
+    "main.c685c192.js.map": "/github.io/recipeapp-react/static/js/main.c685c192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd207696.css",
+    "static/js/main.c685c192.js"
+  ]
+}
