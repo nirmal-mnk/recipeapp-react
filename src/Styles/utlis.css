@@ -1,0 +1,30 @@
+.bg-red {
+  background-color: var(--bg-red);
+}
+.bg-black {
+  background-color: var(--bg-black);
+}
+.bg-grey {
+  background-color: var(--bg-grey);
+}
+.bg-lightgrey {
+  background-color: var(--bg-lightgrey);
+}
+.bg-white {
+  background-color: var(--bg-white);
+}
+.txt-red {
+  color: var(--bg-red);
+}
+.txt-black {
+  color: var(--bg-black);
+}
+.txt-grey {
+  color: var(--bg-grey);
+}
+.txt-lightgrey {
+  color: var(--bg-lightgrey);
+}
+.txt-white {
+  color: var(--bg-white);
+}

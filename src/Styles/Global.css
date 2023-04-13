@@ -1,0 +1,18 @@
+.logo {
+  font-size: 2rem;
+  color: var(--bg-white);
+  font-weight: 600;
+  position: relative;
+  display: inline-block;
+}
+.logo::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  display: block;
+  background-color: var(--bg-red);
+  border-radius: 50%;
+  position: absolute;
+  bottom: 0.2rem;
+  right: -0.6rem;
+}

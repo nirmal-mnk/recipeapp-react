@@ -1,0 +1,14 @@
+.globalSearch {
+  width: 100%;
+  padding: 15px 20px;
+  border: 1px solid var(--bg-grey) !important;
+  border-radius: 5px;
+  background: none;
+  color: var(--bg-black);
+  font-size: 1.3rem;
+}
+.error {
+  font-size: 14px;
+  color: red;
+  text-align: left;
+}

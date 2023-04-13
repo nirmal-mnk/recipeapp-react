@@ -1,0 +1,52 @@
+.modalMain {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.521);
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: all;
+}
+.modalCard {
+  min-width: clamp(500px, 45vw, 700px);
+  height: auto;
+  background-color: #fff;
+  border-radius: 8px;
+  /* pointer-events: none; */
+}
+.modalCardImage {
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+}
+.modalCardImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px 8px 0 0;
+  filter: blur(2px);
+}
+.modalCardContent {
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+}
+.ingredientMain {
+  max-height: 290px;
+  overflow-y: auto;
+}
+.ingredientList {
+  list-style-type: disc;
+  padding-left: 2rem;
+}
+.ingredientList li {
+  margin-bottom: 5px;
+}
+.ingredientList li::marker {
+  color: var(--bg-red);
+}
