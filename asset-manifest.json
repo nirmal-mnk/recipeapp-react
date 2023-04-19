@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github.io/recipeapp-react/static/css/main.cd207696.css",
+    "main.css": "/github.io/recipeapp-react/static/css/main.3fd4d7c9.css",
     "main.js": "/github.io/recipeapp-react/static/js/main.c685c192.js",
     "static/media/banner.jpg": "/github.io/recipeapp-react/static/media/banner.1c03284117f79072909d.jpg",
     "static/media/oats.jpg": "/github.io/recipeapp-react/static/media/oats.f4d70e2c655ceeeccdd3.jpg",
@@ -14,11 +14,11 @@
     "static/media/yogurt.jpg": "/github.io/recipeapp-react/static/media/yogurt.9db29e5848847eeaa02c.jpg",
     "static/media/garlic.jpg": "/github.io/recipeapp-react/static/media/garlic.d187ad21e2c3148651f9.jpg",
     "index.html": "/github.io/recipeapp-react/index.html",
-    "main.cd207696.css.map": "/github.io/recipeapp-react/static/css/main.cd207696.css.map",
+    "main.3fd4d7c9.css.map": "/github.io/recipeapp-react/static/css/main.3fd4d7c9.css.map",
     "main.c685c192.js.map": "/github.io/recipeapp-react/static/js/main.c685c192.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd207696.css",
+    "static/css/main.3fd4d7c9.css",
     "static/js/main.c685c192.js"
   ]
 }
